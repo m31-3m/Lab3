@@ -32,7 +32,7 @@ The application consists of one main portfolio page and two additional sub-pages
 
 1. Clone the repository:
    ```bash
-   git clone <your-github-repository-link>
+   git clone https://github.com/m31-3m/Lab3.git
 
 2. Navigate to the project directory:
     `cd your-project-folder`
