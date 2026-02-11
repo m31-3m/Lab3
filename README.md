@@ -35,8 +35,7 @@ The application consists of one main portfolio page and two additional sub-pages
    git clone https://github.com/m31-3m/Lab3.git
    ```
 2. Navigate to the project directory:
-    `cd your-project-folder`
-
+    `cd Lab3`
 3. Install dependencies:
     ```bash
     composer install
@@ -45,16 +44,16 @@ The application consists of one main portfolio page and two additional sub-pages
    ```bash
     php artisan serve
    ```
-
 7. Open a browser and visit:
-```bash
-http://127.0.0.1:8000/home
+    ```bash
+    http://127.0.0.1:8000/home
+    
+    http://127.0.0.1:8000/about_me
+    
+    http://127.0.0.1:8000/interests
+    ```
 
-http://127.0.0.1:8000/about_me
-
-http://127.0.0.1:8000/interests
-```
 # Author
-Mel G. Magdaraog
-BSIS-2
+### Mel G. Magdaraog
+### BSIS-2
 
