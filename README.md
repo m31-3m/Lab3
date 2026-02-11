@@ -40,11 +40,19 @@ The application consists of one main portfolio page and two additional sub-pages
     ```bash
     composer install
     ```
-5. Run the Laravel development server:
+4. Create the Environment File:
+   ```bash
+   copy .env.example .env
+   ```
+5. Generate Application Key:
+   ```bash
+   php artisan key:generate
+   ```
+7. Run the Laravel development server:
    ```bash
     php artisan serve
    ```
-7. Open a browser and visit:
+8. Open a browser and visit:
     ```bash
     http://127.0.0.1:8000/home
     
