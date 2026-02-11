@@ -35,7 +35,9 @@ The application consists of one main portfolio page and two additional sub-pages
    git clone https://github.com/m31-3m/Lab3.git
    ```
 2. Navigate to the project directory:
-    `cd Lab3`
+    ```bash
+    cd Lab3
+    ```
 3. Install dependencies:
     ```bash
     composer install
