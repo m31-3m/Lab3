@@ -53,7 +53,7 @@ http://127.0.0.1:8000/home
 http://127.0.0.1:8000/about_me
 
 http://127.0.0.1:8000/interests
-
+```
 # Author
 Mel G. Magdaraog
 BSIS-2
